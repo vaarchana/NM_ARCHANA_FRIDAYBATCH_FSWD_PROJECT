@@ -1,15 +1,22 @@
-# NM_ARCHANA_FRIDAYBATCH_FSWD_PROJECT
-
-Name: ARCHANA VA
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID: aU960221104025
+Project implemented by: 
 
 
-College name: Arunachala College of Engineering for Women
+Name:
 
 
-Username: student
+ID:
 
 
-Password: 12345
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
